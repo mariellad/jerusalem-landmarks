@@ -9,6 +9,7 @@ This project aims to develop an automated methodology for detecting landmarks in
 - **Initial Query**: Images are sourced from the Library of Congress website using 'Jerusalem' as a keyword, yielding 16,476 images.
 - **Landmark List**: A list of 202 Jerusalem landmarks (with multiple denominations and languages) is compiled. Each landmark name is queried individually on the Library of Congress website to gather image URLs.
 - **Comparison**: The URLs from individual landmark queries are compared with the total list from the 'Jerusalem' query to identify unique image URLs. This allows for the calculation of the percentage of images with pre-identified landmarks.
+- the code to perform landmark query is listed in get_url_queries.ipynb.
 
 ### Detection using OpenAI API Models
 - **Image Selection**: 300 images are randomly selected from the total collection.
@@ -22,6 +23,7 @@ This project aims to develop an automated methodology for detecting landmarks in
 ## Evaluation
 - **Ground Truth Establishment**: A ground truth is established for the selected images.
 - **Model Comparison**: Outputs from each model are compared to the ground truth using fuzzy matching (Levenstein distance). The model with the highest average score is selected.
+- The code for evaluation is in evaluation.ipynb.
 
 ## Scaling Up
 - **Expanded Processing**: The selected model is rerun with a larger set of approximately 1,000 images.
