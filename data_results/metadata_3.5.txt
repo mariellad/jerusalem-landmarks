@@ -1,0 +1,1650 @@
+```json
+{
+  "id": "http://www.loc.gov/item/2004663247/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+ {
+  "id": "http://www.loc.gov/item/2019694539/",
+  "city": "Jerusalem",
+  "landmarks": ["Dome of the Rock", "archway"]
+}
+{
+  "id": "http://www.loc.gov/item/2019693935/",
+  "city": "Unknown",
+  "landmarks": ["Scots Mission Hospital"]
+}
+```json
+{
+  "id": "2019704467",
+  "city": "Jerusalem",
+  "landmarks": ["Jerusalem Y.M.C.A. tower"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019696032/",
+  "city": "Rishon LeZion",
+  "landmarks": ["Unknown"]
+}
+ {
+  "id": "http://www.loc.gov/item/2019710452/",
+  "city": "Zikhron Ya'aqov",
+  "landmarks": ["Unknown"]
+}
+ ```json
+{
+  "id": "http://www.loc.gov/item/2019710686/",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A."]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019695010/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019696470/",
+  "city": "Jizah",
+  "landmarks": ["The Sphinx"]
+}
+{
+  "id": "http://www.loc.gov/item/2013646248/",
+  "city": "Mecca",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "2019691737",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Holy Sepulchre"]
+}
+{
+  "id": "http://www.loc.gov/item/2019713318/",
+  "city": "Jerusalem",
+  "landmarks": ["Notre Dame de France"]
+}
+{
+  "id": "http://www.loc.gov/item/2019692444/",
+  "city": "Jerusalem",
+  "landmarks": ["Mount of Olives", "Bethany", "Garden of Gethsemane"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695163/",
+  "city": "Unknown",
+  "landmarks": ["Capernaum Synagogue"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694714/",
+  "city": "Jerusalem",
+  "landmarks": ["Christ's Tomb"]
+}
+```json
+{
+  "id": "2019697860",
+  "city": "Beit Ed-Din",
+  "landmarks": ["Shehab Palace"]
+}
+```
+ {
+  "id": "http://www.loc.gov/item/2019691529/",
+  "city": "Tiberias",
+  "landmarks": ["Lake of Gennesaret", "Yarkon River"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019709404/",
+  "city": "Amman",
+  "landmarks": ["Roman theatre of Amman"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019703962/",
+  "city": "Unknown",
+  "landmarks": ["Y.M.C.A."]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019695285/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2019695974/",
+  "city": "Unknown",
+  "landmarks": ["Migdol"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019695748/",
+  "city": "Unknown",
+  "landmarks": ["Monastery of St. Katherine / St. Catherine Monastery"]
+}
+{
+  "id": "http://www.loc.gov/item/2016677036/",
+  "city": "Jerusalem",
+  "landmarks": ["Nehemiah Stained Glass Window"]
+}
+{
+  "id": "2019698415",
+  "city": "Jerusalem",
+  "landmarks": ["Valleys of Hinnom", "Valley of Jehoshaphat"]
+}
+{
+  "id": "http://www.loc.gov/item/2019704950/",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Holy Sepulchre", "Upper Pool of Gihon"]
+}
+{
+  "id": "http://www.loc.gov/item/2019698331/",
+  "city": "Jaffa",
+  "landmarks": ["Hotel du Parc"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709446/",
+  "city": "Jerusalem",
+  "landmarks": ["Lydda-Jerusalem railroad"]
+}
+{
+  "id": "2019706020",
+  "city": "Unknown",
+  "landmarks": ["The Palestine Electric Corporation Power Plant"]
+}
+{
+  "id": "http://www.loc.gov/item/2019710008/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2006679656/",
+  "city": "Jerusalem",
+  "landmarks": ["Jewish Synagogue"]
+}
+{
+  "id": "http://www.loc.gov/item/2019702771/",
+  "city": "Unknown",
+  "landmarks": ["Babylon"]
+}
+```json
+{
+  "id": "2019710762",
+  "city": "Beersheba",
+  "landmarks": ["Tel-el-Meleiha"]
+}
+```
+ {
+  "id": "http://www.loc.gov/item/2019704747/",
+  "city": "Jerusalem",
+  "landmarks": ["Palestine Broadcasting Service"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695492/",
+  "city": "Unknown",
+  "landmarks": ["Shrine to god Pan at Banias"]
+}
+{
+  "id": "http://www.loc.gov/item/2019691938/",
+  "city": "Unknown",
+  "landmarks": ["Sycomore figs"]
+}
+{
+  "id": "http://www.loc.gov/item/2019699256/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019704710/",
+  "city": "Jerusalem",
+  "landmarks": ["Mar Jakoub"]
+}
+ ```json
+{
+  "id": "http://www.loc.gov/item/2019694562/",
+  "city": "Bethlehem",
+  "landmarks": ["Church of Nativity"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/90714422/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+ {
+  "id": "http://www.loc.gov/item/2019693565/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019710115/",
+  "city": "Unknown",
+  "landmarks": ["Shunet Nimrin"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695923/",
+  "city": "Unknown",
+  "landmarks": ["Nebi Samwil"] 
+}
+{
+  "id": "http://www.loc.gov/item/2019705968/",
+  "city": "Tel Aviv",
+  "landmarks": ["Jaffa"] 
+}
+{
+  "id": "http://www.loc.gov/item/2019710886/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019698759/",
+  "city": "Damascus",
+  "landmarks": ["Straight Street"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2010638349/",
+  "city": "Unknown",
+  "landmarks": ["Ave Maria Grotto"]
+}
+{
+  "id": "http://www.loc.gov/item/2019698439/",
+  "city": "Jerusalem",
+  "landmarks": ["Mount of Olives"]
+}
+{
+  "id": "2019696555",
+  "city": "Unknown",
+  "landmarks": ["Shemen works at Haifa"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695572/",
+  "city": "Jerusalem",
+  "landmarks": ["Ain Karim"]
+}
+```json
+{
+  "id": "2019700860",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2010638327/",
+  "city": "Cullman",
+  "landmarks": ["Ave Maria Grotto"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019696243/",
+  "city": "Jerusalem",
+  "landmarks": ["British war cemetery on Scopus", "The Chapel of Remembrance", "New Zealand memorial mosaics"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694178/",
+  "city": "Unknown",
+  "landmarks": ["Dead Sea", "Usdum"]
+}
+{
+  "id": "http://www.loc.gov/item/2019699589/",
+  "city": "Unknown",
+  "landmarks": ["Al Hejaz railway", "Sinai Desert"]
+}
+{
+  "id": "http://www.loc.gov/item/2019692934/",
+  "city": "Port Said",
+  "landmarks": ["Port Said Harbor"]
+}
+{
+  "id": "http://www.loc.gov/item/2008676306/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709041/",
+  "city": "Unknown",
+  "landmarks": ["Dead Sea Album, Palestine Potash Ltd. Pier"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019698005/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019709310/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "2019699267",
+  "city": "Jerusalem",
+  "landmarks": ["VIIth Station of the Cross"]
+}
+{
+  "id": "http://www.loc.gov/item/2019707799/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "2019700305",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019705609/",
+  "city": "Nazareth",
+  "landmarks": ["Chapel on the site of the ancient synagogue"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019709848/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "2019696982",
+  "city": "Jerusalem",
+  "landmarks": ["Armenian Convent"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694535/",
+  "city": "Jerusalem",
+  "landmarks": ["Temple area", "Dome of the Rock"]
+}
+{
+  "id": "http://www.loc.gov/item/2019693519/",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Transfiguration"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709938/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695901/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019707188/",
+  "city": "Jerusalem",
+  "landmarks": ["Jaffa quay"]
+}
+```
+{
+  "id": "2019696942",
+  "city": "Jerusalem",
+  "landmarks": ["Hebrew University", "Mount Scopus"]
+}
+{
+  "id": "http://www.loc.gov/item/2019706576/",
+  "city": "Tel Aviv",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019694892/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019712759/",
+  "city": "Jerusalem",
+  "landmarks": ["Lake of Galilee"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019695518/",
+  "city": "Jordan",
+  "landmarks": ["Damieh"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019706825/",
+  "city": "Unknown",
+  "landmarks": ["Royal College of Medicine of Iraq"]
+}
+{
+  "id": "http://www.loc.gov/item/2006691711/",
+  "city": "Unknown",
+  "landmarks": ["Lebanese mountainside", "Bshirre village", "Cedars road"]
+}
+{
+  "id": "2019695948",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709086/",
+  "city": "Ramlah",
+  "landmarks": ["Military road block at junction Ramleh-Lydda Road"]
+}
+{
+  "id": "http://www.loc.gov/item/2019707989/",
+  "city": "Unknown",
+  "landmarks": "Unknown"
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019702805/",
+  "city": "Mosul",
+  "landmarks": ["Great Mosque of al-Nuri"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019707097/",
+  "city": "Jaffa",
+  "landmarks": ["Jaffa pier", "House of Simon the Tanner"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694134/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019708887/",
+  "city": "Unknown",
+  "landmarks": ["Derailed train at Kefr-Jenuis"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019699141/",
+  "city": "Jerusalem",
+  "landmarks": ["Mt. Scopus cemetery"]
+}
+{
+  "id": "2019696542",
+  "city": "Jerusalem",
+  "landmarks": ["al-Aqsa Mosque"]
+}
+{
+  "id": "http://www.loc.gov/item/2023689026/",
+  "city": "Jerusalem",
+  "landmarks": ["Apartment Hotel (Jerusalem Hotel)", "Old City of Jerusalem"]
+}
+{
+  "id": "http://www.loc.gov/item/2019712927/",
+  "city": "Jerusalem",
+  "landmarks": ["The Good Samaritan's Inn"]
+}
+{
+  "id": "http://www.loc.gov/item/2019707077/",
+  "city": "Petra",
+  "landmarks": ["Umm el-Biyarah"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019693974/",
+  "city": "Tiberias",
+  "landmarks": ["Scots Mission Hospital"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/92501064/",
+  "city": "Cairo",
+  "landmarks": ["Great Pyramid of Cheops"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2010640638/",
+  "city": "Cullman",
+  "landmarks": ["Ave Maria Grotto"]
+}
+{
+  "id": "2019712886",
+  "city": "Unknown",
+  "landmarks": ["Mount Hermon"]
+}
+{
+  "id": "http://www.loc.gov/item/2019693227/",
+  "city": "Unknown",
+  "landmarks": ["ʻEn Gedi"]
+}
+{
+  "id": "http://www.loc.gov/item/2019691455/",
+  "city": "Unknown",
+  "landmarks": ["Zionist colonies on Sharon. Borochov. Girls' farm"]
+}
+{
+  "id": "2019697155",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019708697/",
+  "city": "Cairo",
+  "landmarks": ["Gezira Gardens & sports", "Bowling grounds"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019706058/",
+  "city": "Unknown",
+  "landmarks": ["Dead Sea"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/92500413/",
+  "city": "Jerusalem",
+  "landmarks": ["Valley of Hinnom", "Lower Pool of Gihon"]
+}
+{
+  "id": "http://www.loc.gov/item/2019693392/",
+  "city": "Jerusalem",
+  "landmarks": ["Hebrew University"]
+}
+{
+  "id": "http://www.loc.gov/item/2019710754/",
+  "city": "Beersheba",
+  "landmarks": ["Tel-el-Meleiha cavalry post"]
+}
+{
+  "id": "http://www.loc.gov/item/2019706026/",
+  "city": "Unknown",
+  "landmarks": ["Naharayim Power Plant"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019700225/",
+  "city": "Jerusalem",
+  "landmarks": ["High Commissioner's residence"]
+}
+```
+{
+  "id": "2019694732",
+  "city": "Jerusalem",
+  "landmarks": ["Damascus Gate"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019701487/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "2019708017",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019700123/",
+  "city": "Jerusalem",
+  "landmarks": ["British Linotype plant (Government Printing Office)"]
+}
+```
+```json
+{
+  "id": "2019696137",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019710067/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019699113/",
+  "city": "Jerusalem",
+  "landmarks": ["Government House"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019710421/",
+  "city": "Zikhron Ya'aqov",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019691869/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "2019698972",
+  "city": "Jerusalem",
+  "landmarks": ["Mount Scopus", "Chapel"]
+}
+```json
+{
+  "id": "2019702721",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2023688990/",
+  "city": "Jerusalem",
+  "landmarks": ["Jerusalem Hotel"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2021681217/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019705043/",
+  "city": "Jerusalem",
+  "landmarks": ["Gethsemane Basilica"]
+}
+{
+  "id": "2019697397",
+  "city": "Jerusalem",
+  "landmarks": ["The Virgin's Fountain"]
+}
+{
+  "id": "http://www.loc.gov/item/2019702744/",
+  "city": "Unknown",
+  "landmarks": []
+}
+{
+  "id": "http://www.loc.gov/item/2019707915/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019706842/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "2019705463",
+  "city": "Jerusalem",
+  "landmarks": ["North city wall"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019704659/",
+  "city": "Jerusalem",
+  "landmarks": ["Hurva Synagogue"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019707332/",
+  "city": "Unknown",
+  "landmarks": ["Ain Seeby[?] in Samaria"]
+}
+{
+  "id": "http://www.loc.gov/item/2019698550/",
+  "city": "Sinai",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709589/",
+  "city": "Jerusalem",
+  "landmarks": ["Jaffa Road", "Jaffa Gate"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709354/",
+  "city": "Jerusalem",
+  "landmarks": ["Hebrew University"]
+}
+{
+  "id": "http://www.loc.gov/item/2019710670/",
+  "city": "Jerusalem",
+  "landmarks": ["Women's Institute"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019707177/",
+  "city": "Cairo",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019702230/",
+  "city": "Unknown",
+  "landmarks": []
+}
+{
+  "id": "2019701789",
+  "city": "Jerusalem",
+  "landmarks": ["Gethsemane", "Mount of Olives"]
+}
+{
+  "id": "http://www.loc.gov/item/2019710130/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019707094/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "2019694662",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019699715",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "2019707595",
+  "city": "Tel Aviv",
+  "landmarks": ["Levant Fair"]
+}
+{
+  "id": "http://www.loc.gov/item/2019691680/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019712036/",
+  "city": "Jerusalem",
+  "landmarks": ["Neby Mousa (Nebi Musa)", "Mosque el-Aksa (al-Aqsa)"]
+}
+{
+  "id": "http://www.loc.gov/item/2019712516/",
+  "city": "Jerusalem",
+  "landmarks": ["Temple Area", "El Aksa", "al-Aqsa", "Dome of the Rock"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019707391/",
+  "city": "Jerusalem",
+  "landmarks": ["Jeremiah's Grotto (Damascus Gate)"]
+}
+```
+{
+  "id": "2019696868",
+  "city": "Jerusalem",
+  "landmarks": ["Hebrew University"]
+}
+{
+  "id": "http://www.loc.gov/item/2019706326/",
+  "city": "Unknown",
+  "landmarks": ["Ain Kadeis", "Wadi Qideis", "Hauz El Hashimiya hills"]
+}
+```json
+{
+  "id": "2019702796",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "2019694558",
+  "city": "Jerusalem",
+  "landmarks": ["New post office building"]
+}
+{
+  "id": "2019691817",
+  "city": "Jerusalem",
+  "landmarks": ["Gethsemane"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019707443/",
+  "city": "Unknown",
+  "landmarks": ["Tel Deweir (Lachish)"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019693841/",
+  "city": "Jerusalem",
+  "landmarks": ["Excavations on Ophel", "Ophel", "Rock-cut tombs"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019702727/",
+  "city": "Baghdad",
+  "landmarks": ["Mosque"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2019695811/",
+  "city": "Tripoli",
+  "landmarks": ["El-Mina"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2019710697/",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A."]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2019706882/",
+  "city": "Unknown",
+  "landmarks": ["Temple of Nannar"]
+}
+```
+{
+  "id": "2019711320",
+  "city": "Jerusalem",
+  "landmarks": ["Garden Tomb"]
+}
+{
+  "id": "2019696903",
+  "city": "Unknown",
+  "landmarks": ["Ramparts of Kerak"]
+}
+{
+  "id": "http://www.loc.gov/item/2019704436/",
+  "city": "Jerusalem",
+  "landmarks": ["St. George's"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694395/",
+  "city": "Tiberias",
+  "landmarks": ["Scots Mission Hospital"]
+}
+{
+  "id": "2019697953",
+  "city": "Jerusalem",
+  "landmarks": ["El-Kouds", "Fifth Station"]
+}
+{
+  "id": "http://www.loc.gov/item/2019704629/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019700482/",
+  "city": "Haifa",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019693903/",
+  "city": "Tel Aviv",
+  "landmarks": ["Dizengoff Street"]
+}
+{
+  "id": "http://www.loc.gov/item/2019707282/",
+  "city": "Bethany",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/afc2001001.04558/",
+  "city": "Unknown",
+  "landmarks": "Unknown"
+}
+```json
+{
+  "id": "2019699381",
+  "city": "Jerusalem",
+  "landmarks": ["Jerusalem Waterworks"]
+}
+```
+{
+  "id": "2019702723",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019692533/",
+  "city": "Jericho",
+  "landmarks": ["Ruins of ancient Jericho"]
+}
+```json
+{
+  "id": "2019696982",
+  "city": "Unknown",
+  "landmarks": ["Stone door at M'keis"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019703720/",
+  "city": "Unknown",
+  "landmarks": ["Zerka-Main & Machaerus"]
+}
+{
+  "id": "http://www.loc.gov/item/2019706464/",
+  "city": "Unknown",
+  "landmarks": ["Ain Shems (Beth Shemesh) on the Sharon Plain"]
+}
+{
+  "id": "http://www.loc.gov/item/2019708634/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019704813/",
+  "city": "Jerusalem",
+  "landmarks": ["Russian tower"]
+}
+{
+  "id": "http://www.loc.gov/item/2004669839/",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Holy Sepulchre"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019694565/",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A. building"]
+}
+```
+{
+  "id": "2019702834",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019710537/",
+  "city": "Rishon LeZion",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019693053/",
+  "city": "Unknown",
+  "landmarks": ["Thebes, Ramesseum"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019692808/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019710571/",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A."],
+}
+{
+  "id": "2019706827",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019709680/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019710730/",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A."]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019707163/",
+  "city": "Cairo",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2019709103/",
+  "city": "Jerusalem",
+  "landmarks": ["King George Avenue", "Aggrippa's Road"]
+}
+```
+{
+  "id": "2019698065",
+  "city": "Jerusalem",
+  "landmarks": ["Dead Sea"]
+}
+{
+  "id": "http://www.loc.gov/item/2019696508/",
+  "city": "Jerusalem",
+  "landmarks": ["Church of St. James", "Armenian Cathedral of St. James"]
+}
+{
+  "id": "http://www.loc.gov/item/2019696526/",
+  "city": "Jerusalem",
+  "landmarks": ["Al-Aqsa Mosque"]
+}
+{
+  "id": "http://www.loc.gov/item/2019693039/",
+  "city": "Unknown",
+  "landmarks": ["Temple of Kurna"]
+}
+{
+  "id": "http://www.loc.gov/item/2019701821/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "2019692559",
+  "city": "Unknown",
+  "landmarks": ["Sabastiyah, Samaria"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019696530/",
+  "city": "Jerusalem",
+  "landmarks": ["al-Aqsa Mosque"]
+}
+{
+  "id": "http://www.loc.gov/item/2019703899/",
+  "city": "Jerusalem",
+  "landmarks": ["Church Army Hostel"]
+}
+{
+  "id": "http://www.loc.gov/item/2019700287/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019700491/",
+  "city": "Haifa",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019696544/",
+  "city": "Jerusalem",
+  "landmarks": ["El Aksa Mosque"]
+}
+{
+  "id": "http://www.loc.gov/item/2019696209/",
+  "city": "Jerusalem",
+  "landmarks": ["Damascus Gate"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709706/",
+  "city": "Amman",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "2019693549",
+  "city": "Akka",
+  "landmarks": ["Acre Citadel"]
+}
+{
+  "id": "http://www.loc.gov/item/2019707949/",
+  "city": "Unknown",
+  "landmarks": ["Jordan River"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019698100/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019695847/",
+  "city": "Aleppo",
+  "landmarks": ["Jami el-Adliyeh"]
+}
+{
+  "id": "http://www.loc.gov/item/2019696630/",
+  "city": "Unknown",
+  "landmarks": ["Sahyun Castle", "Qal'at Salahuddin"]
+}
+{
+  "id": "http://www.loc.gov/item/2019706891/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695725/",
+  "city": "Unknown",
+  "landmarks": ["Monastery of St. Catherine"]
+}
+{
+  "id": "http://www.loc.gov/item/2019704839/",
+  "city": "Jerusalem",
+  "landmarks": ["St. George's School"]
+}
+```json
+{
+  "id": "2019699738",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019698895/",
+  "city": "Beirut",
+  "landmarks": ["American University"]
+}
+{
+  "id": "http://www.loc.gov/item/2019696549/",
+  "city": "Jerusalem",
+  "landmarks": ["Mount Scopus"]
+}
+{
+  "id": "http://www.loc.gov/item/2006686285/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019713028/",
+  "city": "Jerusalem",
+  "landmarks": ["The Old City", "Damascus Gate", "Governorate"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2019706007/",
+  "city": "Geva",
+  "landmarks": ["The Keren Hayesod", "Agricultural Colonies on Plain of Esdraelon", "Homes and chicken yards"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019710082/",
+  "city": "Tel Aviv",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2023681976/",
+  "city": "Jerusalem",
+  "landmarks": ["Apartment hotel (Residential hotel)", "Hebrew University"]
+}
+{
+  "id": "http://www.loc.gov/item/2006675890/",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Holy Sepulchre"]
+}
+{
+  "id": "http://www.loc.gov/item/2019711778/",
+  "city": "Jerusalem",
+  "landmarks": ["Holy Sepulchre"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694162/",
+  "city": "Unknown",
+  "landmarks": ["Sphinx", "Pyramids", "Temple"]
+}
+{
+  "id": "2019702474",
+  "city": "Jerusalem",
+  "landmarks": ["Anna Spafford baby home"]
+}
+{
+  "id": "http://www.loc.gov/item/2019697433/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019697722/",
+  "city": "Jerusalem",
+  "landmarks": ["Municipal Hospital"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019709143/",
+  "city": "Tel Aviv",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019713120/",
+  "city": "Unknown",
+  "landmarks": ["Al-Qubaybah (al-Qubeibah)"]
+}
+{
+  "id": "http://www.loc.gov/item/2019703357/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694298/",
+  "city": "Caesarea",
+  "landmarks": ["Roman aqueduct"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019692641/",
+  "city": "Damascus",
+  "landmarks": ["Old Damascus"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019694669/",
+  "city": "Jerusalem",
+  "landmarks": ["The Greek patriarch"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709114/",
+  "city": "Jerusalem",
+  "landmarks": ["King George Avenue"]
+}
+{
+  "id": "http://www.loc.gov/item/2019704649/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019699936/",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A." ]
+}
+{
+  "id": "http://www.loc.gov/item/2019710830/",
+  "city": "Beersheba",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "2019692639",
+  "city": "Damascus",
+  "landmarks": ["Esh-Sham Oriental Bazaar"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019705596/",
+  "city": "Jerusalem",
+  "landmarks": ["Ahab's Well, Jezreel"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019701771/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "2019692500",
+  "city": "Jerusalem",
+  "landmarks": ["St. George's Convent"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709213/",
+  "city": "Jerusalem",
+  "landmarks": ["Iranian Consulate"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019709115/",
+  "city": "Jerusalem",
+  "landmarks": ["Yeshurun Synagogue"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2019706305/",
+  "city": "Unknown",
+  "landmarks": ["Beersheba"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019707678/",
+  "city": "Unknown",
+  "landmarks": ["Caesarea"]
+}
+{
+  "id": "2019706916",
+  "city": "Unknown",
+  "landmarks": ["Jewish shrine to the prophet Ezekiel"]
+}
+{
+  "id": "http://www.loc.gov/item/2019712373/",
+  "city": "Jerusalem",
+  "landmarks": ["Barclays Bank"]
+}
+{
+  "id": "2019696318",
+  "city": "Hebron",
+  "landmarks": ["Machpelah"]
+}
+{
+  "id": "http://www.loc.gov/item/2019691868/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "2019697552",
+  "city": "Jerusalem",
+  "landmarks": ["Dome of the Rock"]
+}
+{
+  "id": "http://www.loc.gov/item/2019693605/",
+  "city": "Unknown",
+  "landmarks": ["Temple of Baal", "Justinian's Byzantine wall"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695130/",
+  "city": "Amman",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695779/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695347/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019712928/",
+  "city": "Jerusalem",
+  "landmarks": ["Good Samaritan's Inn"]
+}
+{
+  "id": "http://www.loc.gov/item/2019701717/",
+  "city": "Jerusalem",
+  "landmarks": ["Jaffa Gate"]
+}
+{
+  "id": "http://www.loc.gov/item/2019705863/",
+  "city": "Bethany",
+  "landmarks": ["Ruins of House of Simon the Leper"]
+}
+{
+  "id": "http://www.loc.gov/item/2019702999/",
+  "city": "Jerusalem",
+  "landmarks": ["Dome of the Rock"]
+}
+{
+  "id": "http://www.loc.gov/item/2019705175/",
+  "city": "Jerusalem",
+  "landmarks": ["Mount of Olives"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019691766/",
+  "city": "Unknown",
+  "landmarks": ["Church of Annunciation"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019709971/",
+  "city": "Bethlehem",
+  "landmarks": ["Police barracks", "Post office"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694358/",
+  "city": "Unknown",
+  "landmarks": ["Caesarea Hippodrome"]
+}
+{
+  "id": "http://www.loc.gov/item/2019710536/",
+  "city": "Rishon Le-Zion",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019713187/",
+  "city": "Jerusalem",
+  "landmarks": ["New broadcasting studios on Queen Milisande's Way"]
+}
+```json
+{
+  "id": "2019696235",
+  "city": "Jerusalem",
+  "landmarks": ["Church of All Nations", "Church of the Agony"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019702275/",
+  "city": "Unknown",
+  "landmarks": ["Palmyra, Temple of Baal"]
+}
+{
+  "id": "http://www.loc.gov/item/2019707058/",
+  "city": "Unknown",
+  "landmarks": ["Petra", "El-Habis area", "Sacellum on el-Habis"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709882/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709508/",
+  "city": "Jerusalem",
+  "landmarks": ["Jericho Road"]
+}
+{
+  "id": "http://www.loc.gov/item/2019692595/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709470/",
+  "city": "Jerusalem",
+  "landmarks": ["Jaffa Gate"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019707907/",
+  "city": "Jerusalem",
+  "landmarks": ["St. Stephen's Gate"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2019706961/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019698732",
+  "city": "Nazareth",
+  "landmarks": ["Home of Christ"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019711341/",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A. Hostel", "Garden tea after opening"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694177/",
+  "city": "Tabgha",
+  "landmarks": ["Plain of Gennesareth"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694408/",
+  "city": "Tiberias",
+  "landmarks": ["Scots Mission Hospital"]
+}
+{
+  "id": "http://www.loc.gov/item/2019701827/",
+  "city": "Jerusalem",
+  "landmarks": ["Garden Tomb"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019705918/",
+  "city": "Istanbul",
+  "landmarks": ["Mosque of St. Sophia"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/92500667/",
+  "city": "Jerusalem",
+  "landmarks": ["Tombs of St. James", "Tombs of Zachariah", "Valley of Kedron"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019700506/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2002725076/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2003653058/",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019711883/",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A. hostel", "Old Post Office"]
+}
+```
+```json
+{
+  "id": "2019712799",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019693188/",
+  "city": "Amman",
+  "landmarks": ["Rabbath Amman", "Philadelphia"]
+}
+{
+  "id": "http://www.loc.gov/item/2019693170/",
+  "city": "Unknown",
+  "landmarks": ["Shobeck"]
+}
+{
+  "id": "2019694155",
+  "city": "Unknown",
+  "landmarks": ["Egypt. Sphinx & pyramids"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019698743/",
+  "city": "Nazareth",
+  "landmarks": ["Joseph's workshop"]
+}
+```
+{
+  "id": "2019710608",
+  "city": "Unknown",
+  "landmarks": []
+}
+{
+  "id": "2019697321",
+  "city": "Jerusalem",
+  "landmarks": ["Russian Chapel in Alexander Hospice"]
+}
+{
+  "id": "http://www.loc.gov/item/2019706831/",
+  "city": "Baghdad",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019698007/",
+  "city": "Bethlehem",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019708976/",
+  "city": "Bethlehem",
+  "landmarks": ["2nd Bn. Scots Guards camp"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2018756768/",
+  "city": "Jerusalem",
+  "landmarks": ["Mount Olivet"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019696846/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "2019701594",
+  "city": "Jerusalem",
+  "landmarks": ["Polish consulate"]
+}
+```json
+{
+  "id": "2019697001",
+  "city": "Tel Aviv",
+  "landmarks": ["Modern building completed"]
+}
+```
+```json
+{
+  "id": "http://www.loc.gov/item/2019703050/",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "http://www.loc.gov/item/2019699952/",
+  "city": "Jerusalem",
+  "landmarks": ["Tower of David"]
+}
+{
+  "id": "http://www.loc.gov/item/2019703833/",
+  "city": "Jerusalem",
+  "landmarks": ["Kidron Valley", "Absalom's Pillar"]
+}
+{
+  "id": "http://www.loc.gov/item/2019692993/",
+  "city": "Unknown",
+  "landmarks": ["Pyramids of Gizeh, Sakkara"]
+}
+{
+  "id": "http://www.loc.gov/item/2019707533/",
+  "city": "Jerusalem",
+  "landmarks": ["Jerusalem Water Works", "Ras el Ain source of River Auja"]
+}
+{
+  "id": "2019695607",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+{
+  "id": "http://www.loc.gov/item/2019699903/",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Ecce Homo"]
+}
+{
+  "id": "http://www.loc.gov/item/2019694100/",
+  "city": "Unknown",
+  "landmarks": ["Egypt. Pyramids of Gizeh"]
+}
+{
+  "id": "http://www.loc.gov/item/2019709197/",
+  "city": "Unknown",
+  "landmarks": ["Concrete Road House, Haifa-Acre Junction"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695345/",
+  "city": "Jerusalem",
+  "landmarks": ["Ophel", "City of David"]
+}
+{
+  "id": "http://www.loc.gov/item/2019695965/",
+  "city": "Tel Aviv",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "http://www.loc.gov/item/2019699116/",
+  "city": "Jerusalem",
+  "landmarks": ["Government House"]
+}
+```
+{
+  "id": "2019696832",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}

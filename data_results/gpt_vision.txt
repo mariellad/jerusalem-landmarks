@@ -1,0 +1,2076 @@
+```json
+{
+  "id": "2004663247",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019694539",
+  "city": "Jerusalem",
+  "landmarks": ["Dome of the Rock"]
+}
+```
+```json
+{
+  "id": "2019693935",
+  "city": "Tiberias",
+  "landmarks": ["Scots Mission Hospital"]
+}
+```
+```json
+{
+  "id": "2019704467",
+  "city": "Jerusalem",
+  "landmarks": ["Jerusalem Y.M.C.A. Tower"]
+}
+```
+```json
+{
+  "id": "2019696032",
+  "city": "Rishon LeZion",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019710452",
+  "city": "Zikhron Ya'akov",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019710686",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A"]
+}
+```
+```json
+{
+  "id": "2019695010",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019696470",
+  "city": "Giza",
+  "landmarks": ["The Sphinx"]
+}
+```
+```json
+{
+  "id": "2013646248",
+  "city": "Mecca",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019691737",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Holy Sepulchre"]
+}
+```
+```json
+{
+  "id": "2019713318",
+  "city": "Jerusalem",
+  "landmarks": ["Tower of Notre Dame de France"]
+}
+```
+```json
+{
+  "id": "2019692444",
+  "city": "Jerusalem",
+  "landmarks": ["Mount of Olives", "Garden of Gethsemane"]
+}
+```
+```json
+{
+  "id": "2019695163",
+  "city": "Capernaum",
+  "landmarks": ["synagogue at Capernaum"]
+}
+```
+```json
+{
+  "id": "2019694714",
+  "city": "Jerusalem",
+  "landmarks": ["Christ's Tomb"]
+}
+```
+```json
+{
+  "id": "2019697860",
+  "city": "Beit Ed-Din",
+  "landmarks": ["Shehab Palace"]
+}
+```
+```json
+{
+  "id": "2019691529",
+  "city": "Tiberias",
+  "landmarks": ["Lake of Gennesaret", "Jordan River"]
+}
+```
+```json
+{
+  "id": "2019709404",
+  "city": "Amman",
+  "landmarks": ["Roman Theatre"]
+}
+```
+```json
+{
+  "id": "2019703962",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A."]
+}
+```
+```json
+{
+  "id": "2019695285",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019695974",
+  "city": "Unknown",
+  "landmarks": ["Migdol"]
+}
+```
+```json
+{
+  "id": "2019695748",
+  "city": "Unknown",
+  "landmarks": ["Monastery of St. Catherine"]
+}
+```
+```json
+{
+  "id": "2016677036",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019698415",
+  "city": "Jerusalem",
+  "landmarks": ["Valleys of Hinnom", "Tyropaean", "Jehoshaphat"]
+}
+```
+```json
+{
+  "id": "2019704950",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Holy Sepulchre", "Upper Pool of Gihon"]
+}
+```
+```json
+{
+  "id": "2019698331",
+  "city": "Jaffa",
+  "landmarks": ["Hotel du Parc"]
+}
+```
+```json
+{
+  "id": "2019709446",
+  "city": "Lod",
+  "landmarks": ["Lydda-Jerusalem railroad"]
+}
+```
+```json
+{
+  "id": "2019706020",
+  "city": "Unknown",
+  "landmarks": ["Naharayim power plant", "Rutenberg's Jordan Power Plant", "Palestine Electric Corporation Power Plant"]
+}
+```
+```json
+{
+  "id": "2019710008",
+  "city": "Yatta",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2006679656",
+  "city": "Jerusalem",
+  "landmarks": ["Jewish Synagogue"]
+}
+```
+```json
+{
+  "id": "2019702771",
+  "city": "Babylon",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019710762",
+  "city": "Beersheba",
+  "landmarks": ["Tel-el-Meleiha"]
+}
+```
+```json
+{
+  "id": "2019704747",
+  "city": "Jerusalem",
+  "landmarks": ["Palestine Broadcasting Service"]
+}
+```
+```json
+{
+  "id": "2019695492",
+  "city": "Banias",
+  "landmarks": ["Shrine to god Pan"]
+}
+```
+```json
+{
+  "id": "2019691938",
+  "city": "Unknown",
+  "landmarks": ["Sycomore figs"]
+}
+```
+```json
+{
+  "id": "2019699256",
+  "city": "Unknown",
+  "landmarks": ["Tell el-Ful"]
+}
+```
+```json
+{
+  "id": "2019704710",
+  "city": "Jerusalem",
+  "landmarks": ["Mar Jakoub"]
+}
+```
+```json
+{
+  "id": "2019694562",
+  "city": "Bethlehem",
+  "landmarks": ["Church of the Nativity"]
+}
+```
+```json
+{
+  "id": "90714422",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019693565",
+  "city": "Beirut",
+  "landmarks": ["American University of Beirut", "Chemistry Building"]
+}
+```
+```json
+{
+  "id": "2019710115",
+  "city": "Unknown",
+  "landmarks": ["Shunet Nimrin"]
+}
+```
+```json
+{
+  "id": "2019695923",
+  "city": "Unknown",
+  "landmarks": ["Ruined mosque at Neby Samuel"]
+}
+```
+```json
+{
+  "id": "2019705968",
+  "city": "Tel Aviv",
+  "landmarks": ["The bathing beach", "Jaffa"]
+}
+```
+```json
+{
+  "id": "2019710886",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019698759",
+  "city": "Damascus",
+  "landmarks": ["Straight Street"]
+}
+```
+```json
+{
+  "id": "2010638349",
+  "city": "Cullman",
+  "landmarks": ["Ave Maria Grotto"]
+}
+```
+```json
+{
+  "id": "2019698439",
+  "city": "Jerusalem",
+  "landmarks": ["Mount of Olives"]
+}
+```
+```json
+{
+  "id": "2019696555",
+  "city": "Haifa",
+  "landmarks": ["Shemen works"]
+}
+```
+```json
+{
+  "id": "2019695572",
+  "city": "Jerusalem",
+  "landmarks": ["Ain Karim"]
+}
+```
+```json
+{
+  "id": "2019700860",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2010638327",
+  "city": "Cullman",
+  "landmarks": ["Ave Maria Grotto"]
+}
+```
+```json
+{
+  "id": "2019696243",
+  "city": "Jerusalem",
+  "landmarks": ["British war cemetery on Scopus", "The Chapel of Remembrance", "New Zealand memorial mosaics"]
+}
+```
+```json
+{
+  "id": "2019694178",
+  "city": "Sedom",
+  "landmarks": ["Dead Sea", "Usdum"]
+}
+```
+```json
+{
+  "id": "2019699589",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019692934",
+  "city": "Port Said",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2008676306",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019709041",
+  "city": "Unknown",
+  "landmarks": ["Pier at the south end on the shores of Usdum"]
+}
+```
+```json
+{
+  "id": "2019698005",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019709310",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019699267",
+  "city": "Jerusalem",
+  "landmarks": ["7th Station of the Cross"]
+}
+```
+{
+  "id": "2019707799",
+  "city": "Byblos",
+  "landmarks": ["Jebeil", "Excavated area"]
+}
+```
+```json
+{
+  "id": "2019700305",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019705609",
+  "city": "Nazareth",
+  "landmarks": ["Chapel on the site of the ancient synagogue"]
+}
+```
+```json
+{
+  "id": "2019709848",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+{
+  "id": "2019694419",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```json
+{
+  "id": "2019694535",
+  "city": "Jerusalem",
+  "landmarks": ["Temple area", "Dome of the Rock"]
+}
+```
+```json
+{
+  "id": "2019693519",
+  "city": "Unknown",
+  "landmarks": ["Mount Tabor", "Church of the Transfiguration"]
+}
+```
+```json
+{
+  "id": "2019709938",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019695901",
+  "city": "Aleppo",
+  "landmarks": ["Burghull Mill"]
+}
+```
+```json
+{
+  "id": "2019707188",
+  "city": "Tel Aviv",
+  "landmarks": ["Jaffa Quay"]
+}
+```
+```json
+{
+  "id": "2019696942",
+  "city": "Jerusalem",
+  "landmarks": ["Tell el-Ful Battlefield", "Mt. Scopus"]
+}
+```
+```json
+{
+  "id": "2019706576",
+  "city": "Tel Aviv",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019694892",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019712759",
+  "city": "Unknown",
+  "landmarks": ["Lake of Galilee"]
+}
+```
+```json
+{
+  "id": "2019695518",
+  "city": "Unknown",
+  "landmarks": ["Jordan south of Damieh"]
+}
+```
+```json
+{
+  "id": "2019706825",
+  "city": "Baghdad",
+  "landmarks": ["Royal College of Medicine of Iraq"]
+}
+```
+```json
+{
+  "id": "2006691711",
+  "city": "Unknown",
+  "landmarks": ["Bshirre", "road to Cedars"]
+}
+```
+```json
+{
+  "id": "2019695948",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019709086",
+  "city": "Ramla",
+  "landmarks": ["Military road block at junction Ramleh-Lydda Road"]
+}
+```
+```json
+{
+  "id": "2019707989",
+  "city": "Buṣrá al-Shām",
+  "landmarks": ["Jebel el-Druze", "Basra Eski Sham"]
+}
+```
+```json
+{
+  "id": "2019702805",
+  "city": "Mosul",
+  "landmarks": ["Great Mosque of al-Nuri"]
+}
+```
+```json
+{
+  "id": "2019707097",
+  "city": "Tel Aviv",
+  "landmarks": ["Jaffa pier", "House of Simon the Tanner"]
+}
+```
+```json
+{
+  "id": "2019694134",
+  "city": "Salkhad",
+  "landmarks": ["Jebel el-Druze", "castle hill"]
+}
+```
+```json
+{
+  "id": "2019708887",
+  "city": "Kefr-Jenuis",
+  "landmarks": ["Derailed train"]
+}
+```
+```json
+{
+  "id": "2019699141",
+  "city": "Jerusalem",
+  "landmarks": ["Mt. Scopus cemetery"]
+}
+```
+```json
+{
+  "id": "2019696542",
+  "city": "Jerusalem",
+  "landmarks": ["al-Aqsa Mosque"]
+}
+```
+```json
+{
+  "id": "2019712927",
+  "city": "Unknown",
+  "landmarks": ["Good Samaritan's Inn", "ancient castle"]
+}
+```
+```json
+{
+  "id": "2019707077",
+  "city": "Petra",
+  "landmarks": ["Umm el-Biyarah", "Twin arch-topped sepulchral facades"]
+}
+```
+```json
+{
+  "id": "2019693974",
+  "city": "Tiberias",
+  "landmarks": ["Scots Mission Hospital"]
+}
+```
+```json
+{
+  "id": "92501064",
+  "city": "Cairo",
+  "landmarks": ["Great Pyramid of Cheops"]
+}
+```
+```json
+{
+  "id": "2010640638",
+  "city": "Cullman",
+  "landmarks": ["Ave Maria Grotto"]
+}
+```
+```json
+{
+  "id": "2019712886",
+  "city": "Unknown",
+  "landmarks": ["Mount Hermon"]
+}
+```
+```json
+{
+  "id": "2019693227",
+  "city": "ʻen gedi",
+  "landmarks": ["Dead Sea", "'Ain Jiddy"]
+}
+```
+```json
+{
+  "id": "2019691455",
+  "city": "Unknown",
+  "landmarks": ["Borochov Girls' Farm"]
+}
+```
+```json
+{
+  "id": "2019697155",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019708697",
+  "city": "Cairo",
+  "landmarks": ["Gezira Gardens"]
+}
+```
+```json
+{
+  "id": "2019706058",
+  "city": "Unknown",
+  "landmarks": ["Dead Sea"]
+}
+```
+```json
+{
+  "id": "92500413",
+  "city": "Jerusalem",
+  "landmarks": ["Jerusalem walls", "Valley of Hinnom", "Pool of Gihon"]
+}
+```
+```json
+{
+  "id": "2019693392",
+  "city": "Jerusalem",
+  "landmarks": ["Hebrew University"]
+}
+```
+```json
+{
+  "id": "2019710754",
+  "city": "Beersheba",
+  "landmarks": ["Tel-el-Meleiha"]
+}
+```
+```json
+{
+  "id": "2019706026",
+  "city": "Unknown",
+  "landmarks": ["Naharayim power plant"]
+}
+```
+```json
+{
+  "id": "2019700225",
+  "city": "Jerusalem",
+  "landmarks": ["High Commissioner's residence"]
+}
+```
+```json
+{
+  "id": "2019694732",
+  "city": "Jerusalem",
+  "landmarks": ["Damascus Gate"]
+}
+```
+```json
+{
+  "id": "2019701487",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019708017",
+  "city": "Izra",
+  "landmarks": ["Old town of Ezraa", "Jebel el-Druze", "Hauran"]
+}
+```
+```json
+{
+  "id": "2019700123",
+  "city": "Jerusalem",
+  "landmarks": ["British linotype plant (Government Printing Office)"]
+}
+```
+```json
+{
+  "id": "2019696137",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019710067",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019699113",
+  "city": "Jerusalem",
+  "landmarks": ["Government House"]
+}
+```
+```json
+{
+  "id": "2019710421",
+  "city": "Zikhron Ya'aqov",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019691869",
+  "city": "Unknown",
+  "landmarks": ["El-Buweib"]
+}
+```
+```json
+{
+  "id": "2019698972",
+  "city": "Jerusalem",
+  "landmarks": ["War cemetery", "Mt. Scopus", "Chapel"]
+}
+```
+```json
+{
+  "id": "2019702721",
+  "city": "Baghdad",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2023688990",
+  "city": "Jerusalem",
+  "landmarks": ["Apartment Hotel (Jerusalem Hotel)"]
+}
+```
+```json
+{
+  "id": "2019705043",
+  "city": "Jerusalem",
+  "landmarks": ["Gethsemane Basilica"]
+}
+```
+```json
+{
+  "id": "2019697397",
+  "city": "Jerusalem",
+  "landmarks": ["The Virgin's Fountain"]
+}
+```
+```json
+{
+  "id": "2019702744",
+  "city": "Baghdad",
+  "landmarks": ["Modern mosque"]
+}
+```
+```json
+{
+  "id": "2019707915",
+  "city": "Jericho",
+  "landmarks": ["Metereological Station"]
+}
+```
+```json
+{
+  "id": "2019706842",
+  "city": "Kadhimiya",
+  "landmarks": ["Kadhimain Mosque"]
+}
+```
+```json
+{
+  "id": "2019705463",
+  "city": "Jerusalem",
+  "landmarks": ["North city wall"]
+}
+```
+```json
+{
+  "id": "2019704659",
+  "city": "Jerusalem",
+  "landmarks": ["Hurva Synagogue"]
+}
+```
+```json
+{
+  "id": "2019707332",
+  "city": "Unknown",
+  "landmarks": ["Ain Seeby"]
+}
+```
+```json
+{
+  "id": "2019698550",
+  "city": "Unknown",
+  "landmarks": ["Sinai Peninsula", "Wadi El Sheikh", "Wadi Feiran", "Gebel Serbal", "Feiran Oasis", "Mount Sinai", "Saint Catherine Monastery"]
+}
+```
+```json
+{
+  "id": "2019709589",
+  "city": "Jerusalem",
+  "landmarks": ["Jaffa Road", "Jaffa Gate"]
+}
+```
+```json
+{
+  "id": "2019709354",
+  "city": "Jerusalem",
+  "landmarks": ["Hadassah", "University on Scopus"]
+}
+```
+```json
+{
+  "id": "2019710670",
+  "city": "Jerusalem",
+  "landmarks": ["Women's Institute"]
+}
+```
+```json
+{
+  "id": "2019707177",
+  "city": "Cairo",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019702230",
+  "city": "Unknown",
+  "landmarks": ["Gebel Serbal", "Wadi Feiran"]
+}
+```
+```json
+{
+  "id": "2019701789",
+  "city": "Jerusalem",
+  "landmarks": ["Gethsemane", "Mount of Olives"]
+}
+```
+```json
+{
+  "id": "2019710130",
+  "city": "Salkhad",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019707094",
+  "city": "ʻAqabah",
+  "landmarks": ["Gulf of Akaba", "el-Kuntilla"]
+}
+```
+```json
+{
+  "id": "2019694662",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019699715",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019707595",
+  "city": "Tel Aviv",
+  "landmarks": ["Levant Fair"]
+}
+```
+```json
+{
+  "id": "2019691680",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019712036",
+  "city": "Jerusalem",
+  "landmarks": ["Nebi Musa", "al-Aqsa Mosque"]
+}
+```
+```json
+{
+  "id": "2019712516",
+  "city": "Jerusalem",
+  "landmarks": ["al-Aqsa Mosque", "Dome of the Rock"]
+}
+```
+```json
+{
+  "id": "2019707391",
+  "city": "Jerusalem",
+  "landmarks": ["Jeremiah's Grotto", "Damascus Gate"]
+}
+```
+```json
+{
+  "id": "2019696868",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019706326",
+  "city": "Unknown",
+  "landmarks": ["Ain Kadeis", "Hauz El Hashimiya hills"]
+}
+```
+```json
+{
+  "id": "2019702796",
+  "city": "Baghdad",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019694558",
+  "city": "Jerusalem",
+  "landmarks": ["New post office building"]
+}
+```
+```json
+{
+  "id": "2019691817",
+  "city": "Jerusalem",
+  "landmarks": ["Gethsemane"]
+}
+```
+```json
+{
+  "id": "2019707443",
+  "city": "Lachish",
+  "landmarks": ["Tel Deweir"]
+}
+```
+```json
+{
+  "id": "2019693841",
+  "city": "Jerusalem",
+  "landmarks": ["Ophel", "Rock-cut tombs", "Old Bath on Zion"]
+}
+```
+```json
+{
+  "id": "2019702727",
+  "city": "Baghdad",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019695811",
+  "city": "Tripoli",
+  "landmarks": ["El-Mina"]
+}
+```
+```json
+{
+  "id": "2019710697",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A"]
+}
+```
+```json
+{
+  "id": "2019706882",
+  "city": "Unknown",
+  "landmarks": ["Temple of Nannar"]
+}
+```
+```json
+{
+  "id": "2019711320",
+  "city": "Jerusalem",
+  "landmarks": ["Garden Tomb"]
+}
+```
+```json
+{
+  "id": "2019696903",
+  "city": "Kerak",
+  "landmarks": ["Ramparts of Kerak"]
+}
+```
+```json
+{
+  "id": "2019704436",
+  "city": "Jerusalem",
+  "landmarks": ["St. George's"]
+}
+```
+```json
+{
+  "id": "2019694395",
+  "city": "Tiberias",
+  "landmarks": ["Scots Mission Hospital"]
+}
+```
+```json
+{
+  "id": "2019697953",
+  "city": "Jerusalem",
+  "landmarks": ["Fifth Station of the Cross"]
+}
+```
+```json
+{
+  "id": "2019704629",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019700482",
+  "city": "Haifa",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019693903",
+  "city": "Tel Aviv",
+  "landmarks": ["Dizengoff Street"]
+}
+```
+```json
+{
+  "id": "2019707282",
+  "city": "Bethany",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "afc2001001.04558",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019699381",
+  "city": "Jerusalem",
+  "landmarks": ["Jerusalem Waterworks"]
+}
+```
+```json
+{
+  "id": "2019702723",
+  "city": "Baghdad",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019692533",
+  "city": "Jericho",
+  "landmarks": ["Ancient Jericho"]
+}
+```
+```json
+{
+  "id": "2019693513",
+  "city": "Umm Qays",
+  "landmarks": ["Stone door at M'keis"]
+}
+```
+```json
+{
+  "id": "2019703720",
+  "city": "Unknown",
+  "landmarks": ["Zerka-Main", "Machaerus", "Zerka (town)"]
+}
+```
+```json
+{
+  "id": "2019706464",
+  "city": "Bet Shemesh",
+  "landmarks": ["Ain Shems"]
+}
+```
+```json
+{
+  "id": "2019708634",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019704813",
+  "city": "Jerusalem",
+  "landmarks": ["Russian Tower", "Mount of Olives"]
+}
+```
+```json
+{
+  "id": "2004669839",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Holy Sepulchre"]
+}
+```
+```json
+{
+  "id": "2019694565",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A. building"]
+}
+```
+```json
+{
+  "id": "2019702834",
+  "city": "Ḥillah",
+  "landmarks": ["Euphrates River", "Palm grove"]
+}
+```
+```json
+{
+  "id": "2019710537",
+  "city": "Rishon LeTsiyon",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019693053",
+  "city": "Thebes",
+  "landmarks": ["Ramesseum", "Statues of Ramses II"]
+}
+```
+```json
+{
+  "id": "2019692808",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019710571",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A."]
+}
+```
+```json
+{
+  "id": "2019706827",
+  "city": "Baghdad",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019709680",
+  "city": "Yatta",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019710730",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A"]
+}
+```
+```json
+{
+  "id": "2019707163",
+  "city": "Cairo",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019709103",
+  "city": "Jerusalem",
+  "landmarks": ["King George Avenue", "Agrippa's Road"]
+}
+```
+```json
+{
+  "id": "2019698065",
+  "city": "Unknown",
+  "landmarks": ["Road to Jericho", "Dead Sea"]
+}
+```
+```json
+{
+  "id": "2019696508",
+  "city": "Jerusalem",
+  "landmarks": ["Church of St. James", "Armenian Cathedral of St. James"]
+}
+```
+```json
+{
+  "id": "2019696526",
+  "city": "Jerusalem",
+  "landmarks": ["al-Aqsa Mosque"]
+}
+```
+```json
+{
+  "id": "2019693039",
+  "city": "Thebes",
+  "landmarks": ["Temple of Kurna"]
+}
+```
+```json
+{
+  "id": "2019701821",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019692559",
+  "city": "Unknown",
+  "landmarks": ["Ancient sculptures at Samaria"]
+}
+```
+```json
+{
+  "id": "2019696530",
+  "city": "Jerusalem",
+  "landmarks": ["Al-Aqsa Mosque"]
+}
+```
+```json
+{
+  "id": "2019703899",
+  "city": "Jerusalem",
+  "landmarks": ["Church Army Hostel"]
+}
+```
+```json
+{
+  "id": "2019700287",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019700491",
+  "city": "Haifa",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019696544",
+  "city": "Jerusalem",
+  "landmarks": ["El Aksa Mosque"]
+}
+```
+```json
+{
+  "id": "2019696209",
+  "city": "Jerusalem",
+  "landmarks": ["Damascus Gate"]
+}
+```
+```json
+{
+  "id": "2019709706",
+  "city": "Amman",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019693549",
+  "city": "Acre",
+  "landmarks": ["British cannon from the Napoleonic Wars"]
+}
+```
+```json
+{
+  "id": "2019707949",
+  "city": "Unknown",
+  "landmarks": ["Jordan River", "Banks of Jordan"]
+}
+```
+```json
+{
+  "id": "2019698100",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019695847",
+  "city": "Aleppo",
+  "landmarks": ["Jami el-Adliyeh"]
+}
+```
+```json
+{
+  "id": "2019696630",
+  "city": "Unknown",
+  "landmarks": ["Sahyun Castle", "Qal'at Salahuddin"]
+}
+```
+```json
+{
+  "id": "2019706891",
+  "city": "ḥillah",
+  "landmarks": ["Euphrates River"]
+}
+```
+```json
+{
+  "id": "2019695725",
+  "city": "Unknown",
+  "landmarks": ["Monastery of St. Catherine"]
+}
+```
+```json
+{
+  "id": "2019704839",
+  "city": "Jerusalem",
+  "landmarks": ["St. George's School"]
+}
+```
+```json
+{
+  "id": "2019699738",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019698895",
+  "city": "Beirut",
+  "landmarks": ["American University"]
+}
+```
+```json
+{
+  "id": "2019696549",
+  "city": "Jerusalem",
+  "landmarks": ["Mt. Scopus", "War graves"]
+}
+```
+```json
+{
+  "id": "2006686285",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019713028",
+  "city": "Jerusalem",
+  "landmarks": ["Damascus Gate", "Governorate"]
+}
+```
+```json
+{
+  "id": "2019706007",
+  "city": "Geva",
+  "landmarks": ["Keren Hayesod", "Agricultural Colonies on Plain of Esdraelon", "The Emek"]
+}
+```
+```json
+{
+  "id": "2019710082",
+  "city": "Tel Aviv",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2023681976",
+  "city": "Jerusalem",
+  "landmarks": ["Apartment hotel (Residential hotel)"]
+}
+```
+```json
+{
+  "id": "2019711778",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Holy Sepulchre"]
+}
+```
+```json
+{
+  "id": "2019694162",
+  "city": "Jizah",
+  "landmarks": ["Sphinx", "Pyramids"]
+}
+```
+```json
+{
+  "id": "2019702474",
+  "city": "Jerusalem",
+  "landmarks": ["Anna Spafford Baby Home"]
+}
+```
+```json
+{
+  "id": "2019697433",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019697722",
+  "city": "Jerusalem",
+  "landmarks": ["Municipal Hospital"]
+}
+```
+```json
+{
+  "id": "2019709143",
+  "city": "Tel Aviv",
+  "landmarks": ["Tel Aviv Harbour"]
+}
+```
+```json
+{
+  "id": "2019713120",
+  "city": "Jerusalem",
+  "landmarks": ["Emmaus", "Kubeibeh", "Mizpah Gibeon"]
+}
+```
+```json
+{
+  "id": "2019703357",
+  "city": "Kifl",
+  "landmarks": ["Moslem minaret"]
+}
+```
+```json
+{
+  "id": "2019694298",
+  "city": "Caesarea",
+  "landmarks": ["Roman aqueduct"]
+}
+```
+```json
+{
+  "id": "2019692641",
+  "city": "Damascus",
+  "landmarks": ["Old Damascus"]
+}
+```
+```json
+{
+  "id": "2019694669",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019709114",
+  "city": "Jerusalem",
+  "landmarks": ["King George Avenue"]
+}
+```
+```json
+{
+  "id": "2019704649",
+  "city": "Ramla",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019699936",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A."]
+}
+```
+```json
+{
+  "id": "2019710830",
+  "city": "Beersheba",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019692639",
+  "city": "Damascus",
+  "landmarks": ["An oriental bazaar"]
+}
+```
+```json
+{
+  "id": "2019705596",
+  "city": "Jerusalem",
+  "landmarks": ["Ahab's Well", "Jezreel"]
+}
+```
+```json
+{
+  "id": "2019701771",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019692500",
+  "city": "Jericho",
+  "landmarks": ["St. George's Convent"]
+}
+```
+```json
+{
+  "id": "2019709213",
+  "city": "Jerusalem",
+  "landmarks": ["Iranian Consulate"]
+}
+```
+```json
+{
+  "id": "2019709115",
+  "city": "Jerusalem",
+  "landmarks": ["Yeshurun Synagogue", "King George Avenue"]
+}
+```
+```json
+{
+  "id": "2019706305",
+  "city": "Beersheba",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019707678",
+  "city": "Caesarea",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019706916",
+  "city": "Kifl",
+  "landmarks": ["Native Moslem village", "Jewish shrine to the prophet Ezekiel", "Conical tower over Ezekiel's tomb"]
+}
+```
+```json
+{
+  "id": "2019712373",
+  "city": "Jerusalem",
+  "landmarks": ["Barclays Bank"]
+}
+```
+```json
+{
+  "id": "2019696318",
+  "city": "Hebron",
+  "landmarks": ["Cave of the Patriarchs", "Mosaics in prayer niche"]
+}
+```
+```json
+{
+  "id": "2019691868",
+  "city": "Unknown",
+  "landmarks": ["Nawamis"]
+}
+```
+```json
+{
+  "id": "2019697552",
+  "city": "Jerusalem",
+  "landmarks": ["Dome of the Rock"]
+}
+```
+```json
+{
+  "id": "2019693605",
+  "city": "Tadmur",
+  "landmarks": ["Temple of Baal", "Justinian's Byzantine wall"]
+}
+```
+```json
+{
+  "id": "2019695130",
+  "city": "Amman",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019695779",
+  "city": "Unknown",
+  "landmarks": ["Ras Safsaf", "Gebel Abu Mahrur", "Wadi Sharig", "Ras El Sefsafa", "Gebel Armaziya", "El Raha Plain", "Mount Horeb"]
+}
+```
+```json
+{
+  "id": "2019695347",
+  "city": "Baalbek",
+  "landmarks": ["Temple of the Sun"]
+}
+```
+```json
+{
+  "id": "2019712928",
+  "city": "Unknown",
+  "landmarks": ["Good Samaritan's Inn", "ancient road", "castle"]
+}
+```
+```json
+{
+  "id": "2019701717",
+  "city": "Jerusalem",
+  "landmarks": ["Jaffa Gate"]
+}
+```
+```json
+{
+  "id": "2019705863",
+  "city": "Bethany",
+  "landmarks": ["House of Simon the Leper"]
+}
+```
+```json
+{
+  "id": "2019702999",
+  "city": "Jerusalem",
+  "landmarks": ["Dome of the Rock"]
+}
+```
+```json
+{
+  "id": "2019705175",
+  "city": "Jerusalem",
+  "landmarks": ["Mount of Olives"]
+}
+```
+```json
+{
+  "id": "2019691766",
+  "city": "Nazareth",
+  "landmarks": ["Church of Annunciation"]
+}
+```
+```json
+{
+  "id": "2019709971",
+  "city": "Bethlehem",
+  "landmarks": ["Bethlehem police barracks", "post office"]
+}
+```
+```json
+{
+  "id": "2019694358",
+  "city": "Caesarea",
+  "landmarks": ["Site of the hippodrome"]
+}
+```
+```json
+{
+  "id": "2019710536",
+  "city": "Rishon LeZion",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019713187",
+  "city": "Jerusalem",
+  "landmarks": ["Queen Milisande's Way", "New broadcasting studios"]
+}
+```
+```json
+{
+  "id": "2019696235",
+  "city": "Jerusalem",
+  "landmarks": ["Church of All Nations", "Church of the Agony"]
+}
+```
+```json
+{
+  "id": "2019702275",
+  "city": "Tadmur",
+  "landmarks": ["Temple of Baal"]
+}
+```
+```json
+{
+  "id": "2019707058",
+  "city": "Petra",
+  "landmarks": ["El-Habis area", "Sacellum on el-Habis"]
+}
+```
+```json
+{
+  "id": "2019709882",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019709508",
+  "city": "Unknown",
+  "landmarks": ["Jericho Road"]
+}
+```
+```json
+{
+  "id": "2019692595",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019709470",
+  "city": "Jerusalem",
+  "landmarks": ["Jaffa Gate"]
+}
+```
+```json
+{
+  "id": "2019707907",
+  "city": "Jerusalem",
+  "landmarks": ["St. Stephen's Gate"]
+}
+```
+```json
+{
+  "id": "2019706961",
+  "city": "Unknown",
+  "landmarks": ["Hindiyah Barrage"]
+}
+```
+```json
+{
+  "id": "2019698732",
+  "city": "Nazareth",
+  "landmarks": ["Home of Christ"]
+}
+```
+```json
+{
+  "id": "2019711341",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A. Hostel"]
+}
+```
+```json
+{
+  "id": "2019694177",
+  "city": "Tabgha",
+  "landmarks": ["Plain of Gennesareth"]
+}
+```
+```json
+{
+  "id": "2019694408",
+  "city": "Tiberias",
+  "landmarks": ["Scots Mission Hospital", "Torrance Memorial Site"]
+}
+```
+```json
+{
+  "id": "2019701827",
+  "city": "Jerusalem",
+  "landmarks": ["Garden Tomb"]
+}
+```
+```json
+{
+  "id": "2019705918",
+  "city": "Istanbul",
+  "landmarks": ["Mosque of St. Sophia"]
+}
+```
+```json
+{
+  "id": "92500667",
+  "city": "Jerusalem",
+  "landmarks": ["Tombs of St. James", "Tomb of Zachariah", "Valley of Kedron"]
+}
+```
+```json
+{
+  "id": "2019700506",
+  "city": "Haifa",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2002725076",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2003653058",
+  "city": "Jerusalem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019711883",
+  "city": "Jerusalem",
+  "landmarks": ["Y.M.C.A. hostel", "old post office"]
+}
+```
+```json
+{
+  "id": "2019712799",
+  "city": "Unknown",
+  "landmarks": ["Waters of Misrephoth"]
+}
+```
+```json
+{
+  "id": "2019693188",
+  "city": "Amman",
+  "landmarks": ["Rabbath Ammon", "Philadelphia"]
+}
+```
+```json
+{
+  "id": "2019693170",
+  "city": "Shobeck",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019694155",
+  "city": "Giza",
+  "landmarks": ["Sphinx", "Pyramids"]
+}
+```
+```json
+{
+  "id": "2019698743",
+  "city": "Nazareth",
+  "landmarks": ["Joseph's workshop"]
+}
+```
+```json
+{
+  "id": "2019710608",
+  "city": "Unknown",
+  "landmarks": ["Dept. of Health Mobile Ophthalmic Clinic"]
+}
+```
+```json
+{
+  "id": "2019697321",
+  "city": "Jerusalem",
+  "landmarks": ["Russian Chapel in Alexander Hospice"]
+}
+```
+```json
+{
+  "id": "2019706831",
+  "city": "Baghdad",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019698007",
+  "city": "Bethlehem",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019708976",
+  "city": "Bethlehem",
+  "landmarks": ["2nd Bn. Scots Guards camp on the Bethlehem road"]
+}
+```
+```json
+{
+  "id": "2018756768",
+  "city": "Jerusalem",
+  "landmarks": ["Mount Olivet"]
+}
+```
+```json
+{
+  "id": "2019696846",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019701594",
+  "city": "Jerusalem",
+  "landmarks": ["Polish Consulate"]
+}
+```
+```json
+{
+  "id": "2019697001",
+  "city": "Tel Aviv",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019703050",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019699952",
+  "city": "Jerusalem",
+  "landmarks": ["Tower of David"]
+}
+```
+```json
+{
+  "id": "2019703833",
+  "city": "Jerusalem",
+  "landmarks": ["Kidron Valley", "Absalom's Pillar"]
+}
+```
+```json
+{
+  "id": "2019692993",
+  "city": "Jizah",
+  "landmarks": ["Pyramids of Gizeh", "Step Pyramid at Sakkara"]
+}
+```
+```json
+{
+  "id": "2019707533",
+  "city": "Jerusalem",
+  "landmarks": ["Jerusalem Water Works", "Ras el Ain", "River Auja"]
+}
+```
+```json
+{
+  "id": "2019695607",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019699903",
+  "city": "Jerusalem",
+  "landmarks": ["Church of the Ecce Homo"]
+}
+```
+```json
+{
+  "id": "2019694100",
+  "city": "Giza",
+  "landmarks": ["Great Pyramid", "Pyramids of Gizeh"]
+}
+```
+```json
+{
+  "id": "2019709197",
+  "city": "Haifa",
+  "landmarks": ["Concrete Road House", "Haifa-Acre Junction"]
+}
+```
+```json
+{
+  "id": "2019695345",
+  "city": "Jerusalem",
+  "landmarks": ["Ophel", "City of David"]
+}
+```
+```json
+{
+  "id": "2019695965",
+  "city": "Tel Aviv",
+  "landmarks": ["Unknown"]
+}
+```
+```json
+{
+  "id": "2019699116",
+  "city": "Jerusalem",
+  "landmarks": ["Government House"]
+}
+```
+```json
+{
+  "id": "2019696832",
+  "city": "Unknown",
+  "landmarks": ["Unknown"]
+}
+```
