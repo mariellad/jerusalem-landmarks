@@ -14,8 +14,8 @@ This project aims to develop an automated methodology for detecting landmarks in
 ### Detection using OpenAI API Models
 - **Image Selection**: 300 images are randomly selected from the total collection.
 - **Model Selection**: Three OpenAI API models are used:
-  1. **GPT-3.5-turbo-1106**: Most capable and cost-effective in the GPT-3.5 family: [gpt-api/gpt-3.5.ipynb] (gpt-3.5.ipynb)
-  2. **GPT-4-1106-preview**: Latest GPT-4 model with improved instruction following: [gpt-api/gpt-4_metadata.ipynb] (gpt-4_metadata.ipynb)
+  1. **GPT-3.5-turbo-1106**: Most capable and cost-effective in the GPT-3.5 family: [gpt-api/gpt-3.5.ipynb](gpt-3.5.ipynb)
+  2. **GPT-4-1106-preview**: Latest GPT-4 model with improved instruction following: [gpt-api/gpt-4_metadata.ipynb](gpt-4_metadata.ipynb)
   3. **GPT-4-vision-preview**: Capable of handling and reading images directly: [gpt-api/gpt4-vision.ipynb](gpt4-vision.ipynb)
 - **Metadata Processing**: Only metadata (image id, description, location, notes, etc.) is provided to the first two models, due to their inability to process images directly.
 - **Batch Processing**: Images are processed in batches of 20, with a 15-minute interval between batches to adhere to rate limits.
